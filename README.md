@@ -1,6 +1,6 @@
 ## hey, i'm syrr
 ### about
-- c/c++ & professional java developer
+- c/c++/c# & professional java developer
 - bachelor's degree in computer science
 
 ### contact
