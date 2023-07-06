@@ -1,8 +1,8 @@
 ## hey, i'm syrr
 ### about
 - c/c++/c# & professional java developer
-- bachelor's degree in computer science
+- bachelor's degree in business computer science
 
 ### contact
-discord: syrr#2077\
+discord: syrr.\
 email: admin@syrr.dev
