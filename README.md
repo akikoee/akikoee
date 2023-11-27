@@ -1,8 +1,10 @@
 ## hey, i'm syrr
 ### about
-- c/c++/c# & professional java developer
+- full stack engineer
+- professional: java (ee, spring), typescript (angular)
+- hobby: c, c++, c#
 - bachelor's degree in business computer science
 
 ### contact
 discord: syrr.\
-email: admin@syrr.dev
+email: syrr@afterlife.zip
