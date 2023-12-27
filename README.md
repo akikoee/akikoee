@@ -7,4 +7,4 @@
 
 ### contact
 discord: syrr.\
-email: syrr@afterlife.zip
+email: syrr@skerpien.net
