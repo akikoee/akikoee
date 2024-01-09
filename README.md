@@ -7,4 +7,4 @@
 
 ### contact
 discord: syrr.\
-email: syrr@skerpien.net
+email: admin@skerpien.com
