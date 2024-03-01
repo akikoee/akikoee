@@ -1,4 +1,4 @@
-## hey, i'm kuvira
+## hey, i'm void*
 ### about
 - full stack engineer
 - professional: java (ee, spring), typescript (angular)
