@@ -1,4 +1,4 @@
-## hey, i'm Léon
+## hey, i'm léon
 ### about
 - full stack engineer
 - professional: java (ee, spring), typescript (angular)
