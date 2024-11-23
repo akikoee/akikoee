@@ -1,4 +1,4 @@
-## hey, i'm syrr
+## hey, i'm zen 🌸
 ### about
 - full stack engineer
 - professional: java (ee, spring), typescript (angular, next.js)
