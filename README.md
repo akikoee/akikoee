@@ -1,4 +1,4 @@
-## hey, i'm zen 🌸
+## hey, i'm aloe
 ### about
 - full stack engineer
 - professional: java (ee, spring), typescript (angular, next.js)
