@@ -1,4 +1,4 @@
-## hey, i'm akiko
+## hey, i'm akikoe
 ### about
 - full stack engineer
 - professional: java (ee, spring), typescript (angular, next.js)
